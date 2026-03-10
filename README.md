@@ -47,17 +47,3 @@ Try not to let documentation pages grow too large.
 * Each document should ideally focus on **one main topic**
 
 This makes the documentation easier to read, maintain, and navigate.
-
----
-
-## 📄 What Goes Here
-
-This folder should contain documentation such as:
-
-* 🧭 Project overview
-* 🏗️ System architecture
-* 📖 Glossary of important terms
-* 📊 Data and workflow explanations
-
-Additional documentation can be added as the project evolves.
-
