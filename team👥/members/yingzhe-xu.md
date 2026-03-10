@@ -20,6 +20,24 @@
 
 ---
 
+## 🎓 Education
+
+| | |
+|---|---|
+| 🏫 University | Australian National University |
+| 📚 Degree | _e.g. Bachelor of Advanced Computing_ |
+| 📅 Year | _e.g. 3rd year_ |
+| 🗓️ Expected Graduation | _e.g. 2027_ |
+| 🌐 Exchange / International | _Yes / No_ |
+
+---
+
+## 🏗️ Background
+
+> _Where did you study or work before ANU? Any relevant experience, previous degrees, or industry background?_
+
+---
+
 ## 🧠 Interests / Skills
 
 - Data engineering
@@ -30,15 +48,21 @@
 
 ---
 
-## 🙋 About Me
-
-> _Share a short intro about yourself — optional._
-
----
-
 ## 🛠️ Technical Background
 
 > _What tools, languages, or frameworks are you comfortable with? (e.g. Python, PyTorch, SQL, React...)_
+
+---
+
+## 📁 Previous Projects
+
+> _Any past projects worth mentioning? Link to GitHub repos, papers, or portfolios if you'd like._
+
+---
+
+## 🙋 About Me
+
+> _Share a short intro about yourself — optional._
 
 ---
 

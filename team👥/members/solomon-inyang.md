@@ -19,6 +19,12 @@
 
 ---
 
+## 🎓 Background
+
+> _Academic or professional background — share what you're comfortable with._
+
+---
+
 ## 🧠 About
 
 Tutor responsible for coordinating meeting times and supporting the student team.
