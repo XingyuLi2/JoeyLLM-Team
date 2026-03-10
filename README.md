@@ -1,4 +1,4 @@
-# 🌦️ Joey Nowcasting – TechLauncher Team
+# 🌦️ Joey – TechLauncher Team
 
 This repository is used by the TechLauncher Joey Team to organise the project, manage documentation, and track progress.
 
