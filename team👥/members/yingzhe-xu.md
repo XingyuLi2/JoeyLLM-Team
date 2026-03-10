@@ -6,6 +6,20 @@
 
 ---
 
+## 📇 Contact & Socials
+
+| | |
+|---|---|
+| 📱 Phone | _Optional_ |
+| 🌏 From | _Where are you from?_ |
+| 💼 LinkedIn | _URL_ |
+| 🐙 GitHub | _URL_ |
+| 🤗 Hugging Face | _URL_ |
+| 🎮 Discord | _Username_ |
+| 📘 Facebook | _Optional_ |
+
+---
+
 ## 🧠 Interests / Skills
 
 - Data engineering
