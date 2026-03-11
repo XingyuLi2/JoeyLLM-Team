@@ -46,5 +46,4 @@ Tutor responsible for coordinating meeting times and supporting the student team
 ## 🤝 How to Get Support
 
 > _What's the best way for the team to reach out with questions or blockers?_
-
-emijoeis
+🙂

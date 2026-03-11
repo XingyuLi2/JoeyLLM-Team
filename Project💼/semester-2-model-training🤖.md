@@ -34,5 +34,4 @@ Large training jobs may later be executed on:
 - external high-performance computing systems.
 
 ---
-
-emijoeis
+🙂

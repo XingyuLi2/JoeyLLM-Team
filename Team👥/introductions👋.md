@@ -21,5 +21,4 @@ Meet the JoeyLLM team members.
 ---
 
 > _Each team member should add their own introduction here._
-
-emijoeis
+🙂

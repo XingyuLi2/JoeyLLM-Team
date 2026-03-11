@@ -12,5 +12,4 @@ This folder is for notes about code repositories the team uses or maintains.
 ---
 
 If project code lives in a separate repository, document it here so new team members can find the right repo quickly.
-
-emijoeis
+🙂

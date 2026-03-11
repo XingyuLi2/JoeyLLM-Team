@@ -81,5 +81,4 @@
 ## 📌 Availability
 
 > _When are you generally available? Any constraints we should know about?_
-
-emijoeis
+🙂

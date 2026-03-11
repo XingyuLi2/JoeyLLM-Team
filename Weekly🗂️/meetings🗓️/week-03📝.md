@@ -29,5 +29,4 @@
 ## Next Meeting
 
 **Date:** 2026-04-20 _(after mid-semester break: 6 Apr – 17 Apr)_
-
-emijoeis
+🙂

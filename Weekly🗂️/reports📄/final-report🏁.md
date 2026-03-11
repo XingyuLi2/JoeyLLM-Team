@@ -36,5 +36,4 @@
 ---
 
 > _Final submission: Placeholder date_
-
-emijoeis
+🙂

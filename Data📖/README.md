@@ -13,5 +13,4 @@ This folder is for dataset documentation and data-related notes used by the proj
 ---
 
 Do not commit large raw datasets unless the team has explicitly agreed to store them in Git. Prefer documenting where the data lives and how to access it.
-
-emijoeis
+🙂

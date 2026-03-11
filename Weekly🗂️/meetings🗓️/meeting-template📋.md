@@ -33,5 +33,4 @@
 ## Next Meeting
 
 **Date:** _YYYY-MM-DD_
-
-emijoeis
+🙂

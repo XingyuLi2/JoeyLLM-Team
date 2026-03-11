@@ -13,5 +13,4 @@ This folder contains documentation for the technical environment used by the tea
 ---
 
 Keep infrastructure notes practical and current. If access steps or machine details change, update the relevant file here.
-
-emijoeis
+🙂
