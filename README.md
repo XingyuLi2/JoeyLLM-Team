@@ -1,44 +1,48 @@
-# 🌦️ JoeyLLM – TechLauncher Team
+# 🦘 **JoeyLLM – TechLauncher Team**
 
-This repository is used by the TechLauncher JoeyLLM Team to organise the project, manage documentation, and track progress.
+This repository is used by the **TechLauncher JoeyLLM Team** to organise the project, manage documentation, and track progress.
 
-> ⚠️ **Keep all project work inside GitHub.** GitHub already provides everything needed for documentation, planning, and task tracking.
+⚠️ Keep all project work inside GitHub. GitHub already provides everything needed for documentation, planning, and task tracking.
 
-> ⛔ **Important:** You may receive suggestions from tutors or others to use different tools for planning or documentation. Those are only suggestions. For this project, keep everything inside this repository and GitHub so the work stays organised and easy to review.
+⛔ **Important:** You may receive suggestions from tutors or others to use different tools for planning or documentation. Those are only suggestions. For this project, keep everything inside this repository and GitHub so the work stays organised and easy to review.
 
-## 📋 What This Repository Is For
+---
+
+## 📦 What This Repository Is For
 
 Use this repository for:
 
-- 📄 Project documentation
-- 📊 Planning and task tracking
-- 📚 Notes and weekly reports
-- 👥 Team organisation
-
-Use the **GitHub Project board** called **JoeyLLM Team** to track tasks and progress.
-
-# 📚 Docs
-
-This folder contains the **main project documentation** for the BoM Nowcasting TechLauncher project.
-
-All documentation here should be written so it is **easy to read directly in GitHub**.
+* 📄 Project documentation
+* 📋 Planning and task tracking
+* 📝 Notes and weekly reports
+* 👥 Team organisation
 
 ---
 
-## ✍️ Documentation Format
+## 📊 GitHub Project Board
+
+The team uses a **GitHub Project board called `JoeyLLM Team`** to manage tasks and track progress.
+
+All tasks, issues, and progress updates should be recorded in the project board so the work remains visible and organised.
+
+---
+
+## 📚 Documentation
+
+All documentation here should be written so it is easy to read directly in GitHub.
+
+## ✍️ Format
 
 All documentation should follow these guidelines:
 
-* Use **Markdown (`.md`) files**
-* Write documents so they are **clear and easy to read in GitHub**
-* Use **headers, lists, and emojis** to make information easy to scan
+* Use **Markdown (.md)** files
+* Write documents so they are clear and easy to read in GitHub
+* Use **headers and lists** to make information easy to scan
 * Keep documents **structured and organised**
-
-Most people will read these files **directly on GitHub**, although the repository can also be cloned and viewed locally.
 
 ---
 
-## ✂️ Keep Documents Short
+## ✂️ Keep It Short
 
 Try not to let documentation pages grow too large.
 
