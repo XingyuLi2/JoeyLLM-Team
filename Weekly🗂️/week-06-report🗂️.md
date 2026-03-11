@@ -1,7 +1,7 @@
-# Week 2 Update 🗂️
+# Week 6 Report 🗂️
 
-**Week:** Week 2
-**Date:** 2026-03-23
+**Week:** Week 6
+**Date:** 2026-05-04
 **Attendees:** _Placeholder_
 **Facilitator:** _Placeholder_
 **Prepared by:** _Placeholder_
@@ -52,4 +52,4 @@
 
 ## Next Meeting
 
-**Date:** 2026-03-30
+**Date:** 2026-05-11

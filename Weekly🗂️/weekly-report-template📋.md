@@ -1,6 +1,6 @@
-# Weekly Update Template 📋
+# Weekly Report Template 📋
 
-> _Copy this file for each new weekly update. Rename to `week-XX-update🗂️.md`._
+> _Copy this file for each new weekly report. Rename to `week-XX-report🗂️.md`._
 
 ---
 

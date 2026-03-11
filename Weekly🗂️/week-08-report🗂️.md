@@ -1,7 +1,7 @@
-# Week 1 Update 🗂️
+# Week 8 Report 🗂️
 
-**Week:** Week 1
-**Date:** 2026-03-16
+**Week:** Week 8
+**Date:** 2026-05-18
 **Attendees:** _Placeholder_
 **Facilitator:** _Placeholder_
 **Prepared by:** _Placeholder_
@@ -52,4 +52,4 @@
 
 ## Next Meeting
 
-**Date:** 2026-03-23
+**Date:** 2026-05-25

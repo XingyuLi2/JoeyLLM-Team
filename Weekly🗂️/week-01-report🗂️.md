@@ -1,7 +1,7 @@
-# Week 9 Update 🗂️
+# Week 1 Report 🗂️
 
-**Week:** Week 9
-**Date:** 2026-05-25
+**Week:** Week 1
+**Date:** 2026-03-16
 **Attendees:** _Placeholder_
 **Facilitator:** _Placeholder_
 **Prepared by:** _Placeholder_
@@ -52,4 +52,4 @@
 
 ## Next Meeting
 
-**Date:** _TBD_
+**Date:** 2026-03-23

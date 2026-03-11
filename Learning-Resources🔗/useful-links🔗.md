@@ -8,11 +8,11 @@ A curated list of links relevant to the project.
 
 - [`../README.md`](../README.md) — repository overview and documentation rules
 - [`../Project💼/README.md`](../Project💼/README.md) — project scope across both semesters
-- [`../Project💼/Project-Goal🎯.md`](../Project💼/Project-Goal🎯.md) — project outcomes and goals
-- [`../Project💼/Semester1-Data-Infrastructure📊.md`](../Project💼/Semester1-Data-Infrastructure📊.md) — semester 1 data and infrastructure focus
-- [`../Project💼/Semester2-Model-Training🤖.md`](../Project💼/Semester2-Model-Training🤖.md) — semester 2 model training focus
-- [`../Project💼/GitHub-Project-Board📊.md`](../Project💼/GitHub-Project-Board📊.md) — board workflow and maintenance expectations
-- [`../Weekly🗂️/README.md`](../Weekly🗂️/README.md) — reporting schedule and weekly update index
+- [`../Project💼/project-goal🎯.md`](../Project💼/project-goal🎯.md) — project outcomes and goals
+- [`../Project💼/semester-1-data-infrastructure📊.md`](../Project💼/semester-1-data-infrastructure📊.md) — semester 1 data and infrastructure focus
+- [`../Project💼/semester-2-model-training🤖.md`](../Project💼/semester-2-model-training🤖.md) — semester 2 model training focus
+- [`../Project💼/github-project-board📊.md`](../Project💼/github-project-board📊.md) — board workflow and maintenance expectations
+- [`../Weekly🗂️/README.md`](../Weekly🗂️/README.md) — reporting schedule and weekly report index
 - [`../Team👥/README.md`](../Team👥/README.md) — team roster and contact links
 
 ## External References

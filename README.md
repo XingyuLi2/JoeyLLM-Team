@@ -1,6 +1,22 @@
 # 🦘 **JoeyLLM – TechLauncher Team**
 
+[![Build](https://img.shields.io/badge/build-not%20configured-lightgrey)](./CONTRIBUTING.md)
+[![License](https://img.shields.io/badge/license-not%20specified-lightgrey)](./README.md)
+[![Project%20Board](https://img.shields.io/badge/project%20board-JoeyLLM%20Team-blue)](./Project💼/github-project-board📊.md)
+
 This repository is used by the **TechLauncher JoeyLLM Team** to organise the project, manage documentation, and track progress.
+
+## 🎯 Project Vision
+
+JoeyLLM is a hands-on project about building language-model workflows from end to end, with a strong focus on Australian and other domain-specific language use.
+
+The team’s work moves through a practical pipeline:
+
+1. clean and filter large web datasets
+2. build classifiers that identify useful properties in the text, such as region or domain
+3. use those curated datasets to fine-tune specialised language models
+
+The goal is not just to produce models, but to understand how data quality, infrastructure, and training choices shape the behaviour of modern LLM systems.
 
 ⚠️ Keep all project work inside GitHub. GitHub already provides everything needed for documentation, planning, and task tracking.
 
@@ -12,10 +28,24 @@ This repository is used by the **TechLauncher JoeyLLM Team** to organise the pro
 
 New team members should read these first:
 
-1. `Project💼/Project-Goal🎯.md`
+1. `Project💼/project-goal🎯.md`
 2. `Compute-Infrastructure🖥/wireguard.md`
 3. `Team👥/introductions👋.md`
 4. `Weekly🗂️/README.md`
+
+---
+
+## 🗂️ Repository Structure
+
+| Folder | Purpose |
+|--------|---------|
+| `Compute-Infrastructure🖥` | Access setup, VPN instructions, and GPU or system documentation |
+| `Data📖` | Data sources, dataset notes, and cleaning or preprocessing documentation |
+| `Learning-Resources🔗` | Shared notes, references, and useful links |
+| `Project💼` | Project goals, planning docs, and semester overviews |
+| `Team👥` | Team member info, roles, and contact details |
+| `Weekly🗂️` | Meeting notes, weekly reports, and reporting templates |
+| `Repos` | Notes about code repositories, experiments, and related setup information |
 
 ---
 
@@ -25,7 +55,7 @@ Use this repository for:
 
 * 📄 Project documentation
 * 📋 Planning and task tracking
-* 🗂️ Combined weekly meeting notes and progress updates
+* 🗂️ Combined weekly meeting notes and progress reports
 * 👥 Team organisation
 
 ---
