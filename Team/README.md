@@ -6,7 +6,7 @@
 | [Wen Sun](MemberProfiles/WenSun.md)            | 🎓 Student | —          | ❌ No   |
 | [Xiang Chang](MemberProfiles/XiangChang.md)   | 🎓 Student | —          | ❌ No   |
 | [Xingyu Li](MemberProfiles/XingyuLi.md)       | 🎓 Student | —          | ❌ No   |
-| [Nuo Chen](MemberProfiles/NuoChen.md)         | 🎓 Student | —          | ❌ No   |
+| [Nuo Chen](MemberProfiles/NuoChen.md)         | 🎓 Student | u8188942   | ✅ Yes  |
 | [Solomon Inyang](MemberProfiles/SolomonInyang.md) | 🧑‍🏫 Tutor | —       | —       |
 
 ---
