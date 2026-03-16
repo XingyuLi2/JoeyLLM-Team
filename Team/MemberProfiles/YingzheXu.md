@@ -87,15 +87,3 @@
 
 > Learning the latest developments in AI development / finetuning
 
-
----
-
-## 🤝 Preferred Working Style
-
-> Agile development
-
-
----
-
-## 📌 Availability
-> Please contact me by email
