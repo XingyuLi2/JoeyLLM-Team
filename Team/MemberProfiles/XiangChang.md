@@ -27,9 +27,9 @@
 |---|---|
 | 🏫 University | Australian National University |
 | 📚 Degree | _ Master of  Computing_ |
-| 📅 Year | _e.g. 2nd year_ |
-| 🗓️ Expected Graduation | _e.g. 2027_ |
-| 🌐 Exchange / International | _No / Yes_ |
+| 📅 Year | _2nd year_ |
+| 🗓️ Expected Graduation | _2027_ |
+| 🌐 Exchange / International | _ Yes_ |
 
 ---
 
