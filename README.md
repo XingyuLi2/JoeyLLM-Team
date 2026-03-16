@@ -2,6 +2,8 @@
 
 Welcome! This repository is the central hub for the TechLauncher JoeyLLM Team. We use this space to organize the project, manage all documentation, and track our progress.
 
+🌐 **Team Website:** [https://joeyllm.github.io/JoeyLLM-Team/](https://joeyllm.github.io/JoeyLLM-Team/)
+
 ---
 
 ## 🎯 Project Vision
@@ -50,6 +52,7 @@ This repository is strictly for documentation and project management (no code!).
 | **`Team/`** | Team member info, roles, and contact details. |
 | **`Weekly/`** | Meeting notes, weekly reports, and reporting templates. |
 | **`Repos/`** | Rules and links for our code repositories, platforms, and related setups. |
+| **`docs/`** | Team website source files, published via [GitHub Pages](https://joeyllm.github.io/JoeyLLM-Team/). |
 
 ---
 
