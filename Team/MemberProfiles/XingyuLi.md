@@ -1,7 +1,7 @@
 # Xingyu Li 👤
 
 **Role:** 🎓 Student
-**Student ID:** —
+**Student ID:** u7994712
 **Email:** [Xingyu.Li1@anu.edu.au](mailto:Xingyu.Li1@anu.edu.au)
 
 ---
