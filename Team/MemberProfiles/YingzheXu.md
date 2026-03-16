@@ -10,13 +10,13 @@
 
 | | |
 |---|---|
-| 📱 Phone | _Optional_ |
-| 🌏 From | _Where are you from?_ |
-| 💼 LinkedIn | _URL_ |
-| 🐙 GitHub | _URL_ |
-| 🤗 Hugging Face | _URL_ |
-| 🎮 Discord | _Username_ |
-| 📘 Facebook | _Optional_ |
+| 📱 Phone | +61 493470048 |
+| 🌏 From | China |
+| 💼 LinkedIn | null |
+| 🐙 GitHub | https://github.com/Posture627K?tab=repositories |
+| 🤗 Hugging Face | https://huggingface.co/Posture627Ka |
+| 🎮 Discord | Posture627Ka |
+| 📘 Facebook | null |
 
 ---
 
@@ -25,60 +25,77 @@
 | | |
 |---|---|
 | 🏫 University | Australian National University |
-| 📚 Degree | _e.g. Bachelor of Advanced Computing_ |
-| 📅 Year | _e.g. 3rd year_ |
-| 🗓️ Expected Graduation | _e.g. 2027_ |
-| 🌐 Exchange / International | _Yes / No_ |
+| 📚 Degree | Master of Computing |
+| 📅 Year | 1st year |
+| 🗓️ Expected Graduation | 2027 |
+| 🌐 Exchange / International | Yes |
 
 ---
 
 ## 🏗️ Background
+> Dalhousie University: 2020.09 – 2025.04 
+    Bachelor of Computer Science
 
-> _Where did you study or work before ANU? Any relevant experience, previous degrees, or industry background?_
-
+# Certificate #
+> Certificate in Communication Technology and Cybersecurity of Canada
 ---
 
-## 🧠 Interests / Skills
+## 🧠 Interests / Skills ##
 
 - Data engineering
 - Machine learning
 - UI/UX design
 - User privacy
-- Experience with time-series forecasting models
+- time-series forecasting models
+- Finetuning parameters of the artificial intelligence model
 
 ---
 
-## 🛠️ Technical Background
+## 🛠️ Technical Background ##
 
-> _What tools, languages, or frameworks are you comfortable with? (e.g. Python, PyTorch, SQL, React...)_
-
+- java
+- c 
+- python
+- SQL
+- jupyter
 ---
 
-## 📁 Previous Projects
+## 📁 Previous Projects ##
+>LightGTS:      2025.11 - 2026.02
+    LightGTS is a lightweight general time series forecasting model jointly developed by East China Normal University and Inspur, which achieves high-accuracy and high-efficiency forecasting with very few parameters through periodical tokenization and periodical parallel decoding.
+    I am responsible for the parameter finetuning work.
+    https://github.com/decisionintelligence/LightGTS 
 
-> _Any past projects worth mentioning? Link to GitHub repos, papers, or portfolios if you'd like._
+> ABLE application:         2024.09 – 2024.12
+    The course project on teamwork aims to research, design and evaluate a platform that helps the elderly exercise and engage in social interaction.
 
+> Dalhousie University's Social Media Software:     2024.05 – 2024.09
+    The team collaboration course project aims to develop an internal social media platform for Dalhousie University. The front-end of this project uses JavaScript, and the back-end is developed using Spring Boot. It covers the entire development cycle, including iteration, evaluation, refactoring and maintenance, and has undergone local loopback testing after connecting to the database.
+    https://github.com/Posture627K/socialMedia/tree/main 
 ---
 
-## 🙋 About Me
-
-> _Share a short intro about yourself — optional._
-
+## 🙋 About Me ##
+> gamers
+> https://steamcommunity.com/profiles/76561199073314466/
 ---
 
-## 🎯 Project Goals
+## 🎯 Project Goals ##
 
-> _What do you hope to get out of this project?_
+> Enhance understanding of the Department of AI/machine learning
+
+> Improve teamwork skills
+
+> Learning the latest developments in AI development / finetuning
+
 
 ---
 
 ## 🤝 Preferred Working Style
 
-> _How do you like to work? (e.g. async, pair programming, structured tasks...)_
+> Agile development
+
 
 ---
 
 ## 📌 Availability
-
-> _When are you generally available? Any constraints we should know about?_
-🙂
+> Please contact me by email
