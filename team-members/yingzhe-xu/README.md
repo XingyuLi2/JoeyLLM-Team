@@ -87,3 +87,12 @@
 > Improve teamwork skills
 
 > Learning the latest developments in AI development / finetuning
+
+---
+
+## Notebook Progress
+
+Place YingzheXu's Jupyter notebook files in this folder.
+
+Add new notebooks here each week after downloading them from Jupyter.
+

@@ -66,3 +66,12 @@
 ## 🎯 Project Goals
 
 > _What do you hope to get out of this project?_
+
+---
+
+## Notebook Progress
+
+Place WenSun's Jupyter notebook files in this folder.
+
+Add new notebooks here each week after downloading them from Jupyter.
+

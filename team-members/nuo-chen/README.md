@@ -74,3 +74,12 @@
 
 > - Understand the **full pipeline of base model training** — from data preparation to pre-training and evaluation.
 > - Strengthen my practical **fine-tuning** skills across different model architectures and downstream tasks.
+
+---
+
+## Notebook Progress
+
+Place NuoChen's Jupyter notebook files in this folder.
+
+Add new notebooks here each week after downloading them from Jupyter.
+

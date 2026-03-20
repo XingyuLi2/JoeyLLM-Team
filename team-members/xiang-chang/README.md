@@ -66,3 +66,12 @@
 ## 🎯 Project Goals
 
 > _Have some experience about building an AI_
+
+---
+
+## Notebook Progress
+
+Place XiangChang's Jupyter notebook files in this folder.
+
+Add new notebooks here each week after downloading them from Jupyter.
+

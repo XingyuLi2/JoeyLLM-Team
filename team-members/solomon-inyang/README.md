@@ -48,3 +48,12 @@ Tutor responsible for coordinating meeting times and supporting the student team
 
 > _What's the best way for the team to reach out with questions or blockers?_
 🙂
+
+---
+
+## Notebook Progress
+
+Place SolomonInyang's Jupyter notebook files in this folder.
+
+Add new notebooks here each week after downloading them from Jupyter.
+
