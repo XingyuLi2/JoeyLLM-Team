@@ -51,7 +51,7 @@
 
 ## In Progress
 
-- Collecting individual team member introductions for `Team/Introductions.md`
+- Collecting individual team member profiles in `team-members/README.md`
 
 ## Blockers
 
@@ -59,7 +59,7 @@
 
 ## Plan for Next Week
 
-- Each member adds their personal introduction to `Team/Introductions.md`
+- Each member adds their personal profile under `team-members/`
 - Review and improve website content based on team feedback
 - Begin reading project documentation (`ProjectGoal.md`, `Wireguard.md`) to prepare for data infrastructure work
 
