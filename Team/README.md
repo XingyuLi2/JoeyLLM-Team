@@ -8,3 +8,7 @@
 | [Xingyu Li](MemberProfiles/XingyuLi.md) | 🎓 Student | u7994712 | [Xingyu.Li1@anu.edu.au](mailto:Xingyu.Li1@anu.edu.au) | _XingyuLi2_ | _Optional_ | ✅ Yes |
 | [Nuo Chen](MemberProfiles/NuoChen.md) | 🎓 Student | u8188942 | [u8188942@anu.edu.au](mailto:u8188942@anu.edu.au) | `2513238602` | 0415841644 | ✅ Yes |
 | [Solomon Inyang](MemberProfiles/SolomonInyang.md) | 🧑‍🏫 Tutor | — | [Solomon.Inyang@anu.edu.au](mailto:Solomon.Inyang@anu.edu.au) | _Username_ | _Optional_ | — |
+
+## 📓 Jupyter Notebooks
+
+Weekly notebook uploads should be placed in each student's folder under [`../JupyterNotebook/`](../JupyterNotebook/README.md).
