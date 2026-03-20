@@ -12,6 +12,7 @@ This directory combines team member profiles and individual notebook progress tr
 | Xiang Chang | 🎓 Student | u8125484 | [Xiang.Chang@anu.edu.au](mailto:Xiang.Chang@anu.edu.au) | _Sean593380_ | _0457477145_ | [README](xiang-chang/README.md) |
 | Xingyu Li | 🎓 Student | u7994712 | [Xingyu.Li1@anu.edu.au](mailto:Xingyu.Li1@anu.edu.au) | _XingyuLi2_ | _Optional_ | [README](xingyu-li/README.md) |
 | Yingzhe Xu | 🎓 Student | u8260186 | [Yingzhe.Xu@anu.edu.au](mailto:Yingzhe.Xu@anu.edu.au) | `Posture627K` | +61 493470048 | [README](yingzhe-xu/README.md) |
+| Matthew Altenburg | 📌 Stakeholder | 1138167 | `matthew.altenburg` | `matthewaltenburg` | 0430 378 887 | [README](matthew-altenburg/README.md) |
 
 ## Notebook Uploads
 
